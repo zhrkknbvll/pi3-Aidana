@@ -1,0 +1,170 @@
+#hero{
+    background-color: #101C26;
+
+    .hero-right{
+        h2{
+font-weight: 700;
+font-style: Bold;
+font-size: 60px;
+line-height: 66px;
+letter-spacing: 1%;
+color: white;
+        }
+        p{
+font-weight: 500;
+font-style: Medium;
+font-size: 20px;
+line-height: 32px;
+letter-spacing: -1.1%;
+color: #F3F4F6;
+        }
+    }
+.say{
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+width: 197px;
+height: 60px;
+border-radius: 100px;
+background-color: #F0E714;
+svg{
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+}
+.said{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    color: white;
+    background-color: transparent;
+    border: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+}
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    .say{
+        border: none;
+    
+    }
+}
+.kontor{
+    display: flex;
+    align-items: center;
+    gap: 90px;
+    
+.present{
+    
+    h1{
+font-weight: 600;
+font-size: 44px;
+line-height: 56px;
+color: #F0E714;
+    }
+    p{
+font-weight: 500;
+font-style: Medium;
+font-size: 16px;
+line-height: 28px;
+
+    }
+ 
+}
+.ninty{
+    h1{
+font-weight: 600;
+font-size: 44px;
+line-height: 56px;
+color: #F0E714;
+    }
+    p{
+font-weight: 500;
+font-style: Medium;
+font-size: 16px;
+line-height: 28px;
+    }
+}
+.eighty{
+    h1{
+font-weight: 600;
+font-size: 44px;
+line-height: 56px;
+color: #F0E714;
+    }
+    p{
+font-weight: 500;
+font-style: Medium;
+font-size: 16px;
+line-height: 28px;
+    }
+}
+}
+.hero-right{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+}
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.hero-left{
+    .hero-img{
+        margin-left: 270px;
+        margin-bottom: 80px;
+        .pop{
+            margin-right: 300px;
+            margin-top: 200px;
+            img{
+                
+            width: 753px;
+            height: 599px;
+            }
+           
+        }
+    }
+    .cirlce{
+    width: 30px;
+    height: 30px;
+    background-color: #EDB32D;
+    color:  #EDB32D;
+    border-radius: 50%;
+    margin-bottom: 80px;
+
+}
+}
+.hero-img{
+    position: relative;
+ .card{
+  position: absolute;
+  top: 50px;
+  right: 350px;
+  
+}
+.pop{
+    width: 202px;
+    height: 235px;
+  }
+    
+}
+.hero-end{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+padding-bottom: 50px;
+margin-left: 50px;
+    
+justify-content: space-between;
+}
